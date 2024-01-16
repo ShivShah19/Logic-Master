@@ -1,0 +1,85 @@
+/* Result.css */
+
+/* Style the container */
+.result-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.result {
+    background-color: #f5f5f5;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    width: 50rem;
+    margin: 0 auto;
+}
+
+.score {
+    background-color: #f5f5f5;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+}
+
+/* Style the title */
+.title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Style the result details */
+.flex {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* Style the Quiz Result text based on Pass/Fail */
+.bold.passed {
+    color: #2aff95;
+}
+
+.bold.failed {
+    color: #ff2a66;
+}
+
+/* Style the Restart button */
+.start {
+    margin-top: 20px;
+}
+
+.restart {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    transition: position .2s ease;
+}
+
+.restart:hover {
+    background-color: #0467d1;
+    color: #fdfafa;
+    box-shadow: 5px 5px 10px rgba(71, 71, 71, 0.2);
+}
+
+.restart:active {
+    position: relative;
+    top: 3px;
+    left: 2px;
+}

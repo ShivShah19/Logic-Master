@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+   
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <title>Logic Master</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="loader-wrapper">
+      <div class="loader"></div>
+      <!-- <div class="load-spinner">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+      <div class="load-title">Loading...</div> -->
+  </div>
+  </div>
+  
+    <div id="root"></div>
+  </body>
+  <script>
+
+    const load = document.querySelector(".loader-wrapper");
+
+    setInterval(() => {
+        load.style.display = "none";
+
+      }, 3000);
+  </script>
+</html>

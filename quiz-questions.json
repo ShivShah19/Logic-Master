@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "64e9dde89d7f72510812089e"
+  },
+  "questions": [
+    {
+      "id": 1,
+        "question": "16 22 34 58 106,___?",
+        "options": [
+            212,
+            156,
+            200,
+            202
+        ]
+    },
+    {
+      "id": 2,
+      "question": "Find the missing number in the series; 1, 2, 3, 10 _.",
+      "options": ["89", "99", "79", "69"],
+      "correctAnswer": "99"
+    },
+    {
+      "id": 3,
+        "question": "In the Fibonacci sequence, what is the sum of the squares of the first 10 terms?",
+        "options": [
+            2870,
+            1870,
+            4895,
+            3800
+        ]
+    },
+    {
+      "id": 4,
+        "question": "If 9 times the seventh term of an Arithmetic Progression is equal to 12 times its eleventh term, then the 23rd term of the AP will be?",
+        "options": [
+            1,
+            2,
+            -1,
+            0
+        ]
+    },
+    {
+      "id": 5,
+        "question": "In an arithmetic sequence, the sum of the first n terms is 2n^2+n.  What is the 10th term of the sequence?",
+        "options": [
+            "39",
+            "36",
+            "23",
+            "34"
+        ]
+    },
+    {
+      "id": 6,
+      "question":"Manager : Assistant :: Doctor : ?",
+      "options": [
+          "Chemist",
+          "Nurse",
+          "Patient",
+          "Medicines"
+      ]
+    },
+    {
+      "id": 7,
+      "question":" Suppose that a particular ‘TIGER’ is written as ‘QDFHS’. Find out how ‘FISH’ will be written in the same code",
+      "options": [
+          "GERH",
+          "GREH",
+          "GRHE", 
+          "GHRE"
+      ]
+    },
+    {
+      "id": 8,
+      "question":"Using a particular pattern, ‘ROAR’ is coded as ‘URDU’. Select the right option for how ‘URDU’ will be written based on the same code.",
+      "options": [
+          "VXDQ",
+          "XUGX",
+          "ROAR",
+          "VSOV"
+      ]
+    },
+    {
+      "id": 9,
+      "question":"Choose the odd pair.",
+      "options": [
+          "Volume : Liter",
+          "Time : Second",
+          "Pressure : Barometer" ,
+          "Length : Meter "
+      ]
+    },
+    {
+      "id": 10,
+      "question":"Choose the word which is different from the rest.",
+      "options": [
+          "Bajra",
+          "Mustard",
+          "Rice",
+          "Wheat"
+      ]
+    },
+    {
+      "id": 11,
+      "question":"Find the missing letter in the series: A, D, G, J, __, P.",
+      "options": [
+          "M",
+          "N",
+          "O",
+          "L"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Find the missing letters in the series, GAH, IBJ, KCL, MDN, _.",
+      "options": [
+          "OEG", 
+          "OEB", 
+          "OEP", 
+          "OEA"
+        ]
+    },
+    {
+      "id": 13,
+      "question":"A is the son of C; C and Q are sisters; Z is the mother of Q and P is the son of Z. Which of the following statements is true?",
+      "options": [
+          "P is the maternal uncle of A",
+          "P and A are cousins",
+          "Q is the maternal grandfather of A",
+          "C and P are sisters"
+      ]
+    },
+    {
+      "id": 14,
+      "question":"Pointing to a girl Sandeep said, She is the daughter of the only sister of my father.How is sandeep related to the girl?",
+      "options": [
+          "Uncle",
+          "Father",
+          "Cousin",
+          "Grandfather"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "An animal always has",
+      "options": ["Skin", "Heart", "Lungs", "Life"]
+    },
+    {
+      "id": 16,
+      "question": "A tree always has",
+      "options": ["Leaves", "Fruits", "Shadow", "Roots"]
+    },
+    {
+      "id": 17,
+      "question": "What is Geeta's rank in the class?\n\nStatement I: There are 30 students in the class.\nStatement II: There are 10 students who scored less than Geeta.",
+        "options":[
+          "Statement I alone is sufficient, but statement II alone is not sufficient",
+          "Statement II alone is sufficient, but statement I alone is not sufficient",
+          "Both I and II are needed",
+          "Neither I nor II is sufficient"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "When is Rahul's birthday this year?\n\nI. It is between March 8 and 10, March 8 being the Wednesday.\nII. It is not on Friday.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not sufficient",
+        "Statement II alone is sufficient, but statement I alone is not sufficient",
+        "Either I or II is sufficient",
+        "Both I and II are needed"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "What is the monthly salary of Raman?\n\nI. Raman gets 20% more than Suresh while Suresh gets 10% less than Rahul.\nII. Rahul's monthly salary is Rs. 15000.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not sufficient",
+        "Statement II alone is sufficient, but statement I alone is not sufficient",
+        "Either Statement I or II is sufficient",
+        "Both I and II are needed"
+      ],
+      "correctAnswer": "Both I and II are needed"
+    },
+    {
+      "id": 20,
+      "question": "What is the total weight of 10 boxes, each having the same weight?\n\nI. One-fourth of the weight of a box is 5 kg.\nII. The total weight of the three boxes is 20 kilograms more than the total weight of the two boxes.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not sufficient",
+        "Statement II alone is sufficient, but statement I alone is not sufficient",
+        "Data in both the statements together are not sufficient",
+        "Both I and II are needed"
+      ]
+    }
+  ],
+  "answers": [
+    3,
+    1,
+    2,
+    1,
+    0,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    0,
+    2,
+    3,
+    3,
+    2,
+    0,
+    3,
+    2
+  ],
+  "createdAt": {
+    "$date": "2023-09-22T18:10:36.613Z"
+  },
+  "__v": 0
+}]
